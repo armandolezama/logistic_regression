@@ -1,0 +1,8 @@
+https://realpython.com/logistic-regression-python/ * Single-Variate Logistic Regression *
+
+https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
+
+https://www.datacamp.com/tutorial/understanding-logistic-regression-python
+
+https://www.w3schools.com/python/python_ml_logistic_regression.asp *Readed*
+
