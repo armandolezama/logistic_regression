@@ -1,4 +1,4 @@
-https://realpython.com/logistic-regression-python/ * Single-Variate Logistic Regression *
+https://realpython.com/logistic-regression-python/ * Step 3: Create a Model and Train It *
 
 https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
 
@@ -6,3 +6,37 @@ https://www.datacamp.com/tutorial/understanding-logistic-regression-python
 
 https://www.w3schools.com/python/python_ml_logistic_regression.asp *Readed*
 
+https://statproofbook.github.io/D/llf.html
+
+https://support.numxl.com/hc/en-us/articles/214063646-Appendix-A-Likelihood-function-LLF-
+
+
+
+A Newton-CG algorithm with complexity guarantees for smooth unconstrained optimization
+https://link.springer.com/article/10.1007/s10107-019-01362-7
+
+What is a smooth nonconvex objective function? it is related with convexity and differential calculus (double dx)?
+
+This articles were obtained when I found that newton cg solver in python LogisticRegression instance is related with the zero of a function (e.g. x^2 + 2x + 5 = 0)
+
+Newton conjugate gradient algorithm
+https://math.stackexchange.com/questions/1819410/newton-conjugate-gradient-algorithm
+
+Conjugate gradient methods
+https://optimization.cbe.cornell.edu/index.php?title=Conjugate_gradient_methods
+
+Newton's method
+https://en.wikipedia.org/wiki/Newton%27s_method
+
+Zero of a function
+https://en.wikipedia.org/wiki/Zero_of_a_function
+
+
+
+
+
+Estrategias de Resolución de Problemas: Usar un Modelo Lineal
+https://www.ck12.org/section/estrategias-de-resoluci%c3%b3n-de-problemas:-usar-un-modelo-lineal-/
+
+ALGORITMOS DE OPTIMIZACIÓN EN REGRESIÓN LOGÍSTICA
+https://app.algoreducation.com/maps/editor?mapId=65323244be186b4135574cd2
