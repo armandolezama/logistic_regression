@@ -1,4 +1,4 @@
-https://realpython.com/logistic-regression-python/ * Step 3: Create a Model and Train It *
+https://realpython.com/logistic-regression-python/ *readed*
 
 https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
 
@@ -40,3 +40,8 @@ https://www.ck12.org/section/estrategias-de-resoluci%c3%b3n-de-problemas:-usar-u
 
 ALGORITMOS DE OPTIMIZACIÓN EN REGRESIÓN LOGÍSTICA
 https://app.algoreducation.com/maps/editor?mapId=65323244be186b4135574cd2
+
+
+
+La documentación oficial de scikit-learn contiene datasets, algunos vienen de UCI
+https://scikit-learn.org/stable/index.html
